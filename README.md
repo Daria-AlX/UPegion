@@ -1,7 +1,8 @@
 # Theme: UPegion
 A web-application
 
-# The main aim: to boost creating new users' congresses. 
+# The main aim: 
+to boost creating new users' congresses. 
 
 # Participants:
 - Kukurudza Daria NAI-185
